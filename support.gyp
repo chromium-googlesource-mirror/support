@@ -7,7 +7,7 @@
     'chromium_code': 1,
   },
   'includes': [
-    '../build/common.gypi',
+    '../../common.gypi',
   ],
   'targets': [
     {
